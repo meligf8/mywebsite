@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>سایت شخصی من</title>
+</head>
+<body style="font-family: Tahoma; direction: rtl; text-align: center; background-color: #e0f7fa;">>
+
+    <h1>سلام، من [ملیکاهستم]</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXNGL53min8ev_OFAGzc5UQIVyN6PeM6s2Hf81H1B2Se1CUJAZMgvyhcg&s" alt="" style="border-radius: 50%;">
+    <p>ارسال سریع | ضمانت اصالت کالا</p>
+
+    <h2>فروش لوازم آرایشی</h2>
+    <p>کرم پودر،پودر فیمس،سایه،بادی اسپلش و...!</p>
+
+    <h2>شبکه‌های اجتماعی</h2>
+    <a href="https://instagram.com" target="_blank">اینستاگرام</a> | 
+    <a href="https://telegram.org" target="_blank">تلگرام</a>
+
+    <h2></h2>
+    <p>ایمیل: @gmail.com</p>
+
+    <footer>
+        <p>&copy;  ملی شاپ</p>
+    </footer>
+
+</body>
+</html>
+<button onclick="‏https://www.instagram.com/merida_003_?igsh=aGRiZ2xkcXh3dXVl&utm_source=qr='https://instagram.com';">اینستاگرام من</button>
+https://www.instagram.com/merida_003_?igsh=aGRiZ2xkcXh3dXVl&utm_source=qr
